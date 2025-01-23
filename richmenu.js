@@ -634,9 +634,9 @@ const showAll = async () => {
   const richMenus = (await  client.getRichMenuList()).richmenus
   console.log(richMenus)
 }
+
 // deleteAll()
 // showAll()
-
 
 
 // createHome(client, blobClient)
